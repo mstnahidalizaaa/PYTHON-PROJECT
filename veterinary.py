@@ -66,7 +66,6 @@ class Veterinary:
 
 
 
-
 root=Tk() 
 ob=Veterinary(root)
 root.mainloop()
